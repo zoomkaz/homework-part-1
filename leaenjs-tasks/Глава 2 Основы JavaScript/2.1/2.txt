@@ -1,0 +1,17 @@
+index.html:
+
+<!DOCTYPE html>
+<html>
+
+<body>
+
+  <script src="alert.js"></script>
+
+</body>
+
+</html>
+
+
+alert.js:
+
+alert("Я JavaScript!");
